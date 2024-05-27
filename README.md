@@ -1,3 +1,22 @@
+<h1>OpenD: A web3 platform for NFTs collectibles.</h1>
+
+<ul>
+  <li> A dummy web3 application where users can buy/sell and mint their own NFTs(Non-Fungible Tokens) with crypto currencies.</li>
+  <li> Designed the frontend with ReactJS tools and frameworks. Implementing routing components with React Router Dom.</li>
+  <li>Developed the backend on Internet Computer Blockchain using Motoko Language to create NFT canisters.</li>
+</ul>
+
+<h3>Images are shown below👇.</h3>
+
+![1](https://github.com/pradhyumn32/OpenD/assets/125976196/5d141fd6-c49d-4526-8cea-afef9d7b5fab)
+
+![discover](https://github.com/pradhyumn32/OpenD/assets/125976196/094e06a5-5169-4d5f-9d84-d9465d8b35a4)
+
+![minter](https://github.com/pradhyumn32/OpenD/assets/125976196/ed341d9f-e236-41a8-b6f7-a6ed0d047a10)
+
+![mynft](https://github.com/pradhyumn32/OpenD/assets/125976196/ea13fe1e-18db-4182-bdd1-b3ef5d11e685)
+
+
 # To Install and Run the Project
 
 1. start local dfx
